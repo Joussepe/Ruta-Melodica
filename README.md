@@ -2,7 +2,6 @@
 
 | **Camargo Ambicho Joussepe Josué** | **Ing. de Sistemas e Informática** |  
 
-### Music Player Application  
 Es una pequeña aplicación web de reproductor de música desarrollada con el stack MERN (MongoDB, Express, React, Node.js). La app permite a los usuarios registrarse, iniciar sesión, seleccionar canciones de una biblioteca, crear playlists, reproducir canciones y reanudar la reproducción desde donde la dejaron.
 
 **A continuación, se presenta un desglose de las tecnologías utilizadas, funcionalidades y cómo configurarla localmente:**
